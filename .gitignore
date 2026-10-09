@@ -1,0 +1,4 @@
+# NotebookLM credentials must never be committed
+.notebooklm/
+storage_state.json
+master_token.json
